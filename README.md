@@ -26,9 +26,6 @@ This project analyzes Swiggy sales data using Python to uncover patterns in cust
 - Sales trends indicate demand fluctuations
 - Useful for inventory and staffing planning
 
-## 📷 Sample Visualizations
-(Add your screenshots here)
-
 ## 🚀 How to Run
 1. Clone the repository
 2. Open Jupyter Notebook
